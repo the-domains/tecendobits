@@ -1,7 +1,7 @@
 name: TecendoBits
 favicon: null
 layout_spectrum: 0.75676
-typography_spectrum: 0.03514
+typography_spectrum: 0.2505
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#beb5ab'
     - '#00c7fe'
     - '#fe003c'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.5625
   saturation: 0.75
   rhythmicContrast: 0.5
