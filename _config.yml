@@ -2,6 +2,7 @@ name: TecendoBits
 favicon: null
 layout_spectrum: 0.24875
 typography_spectrum: 0.27554
+style: the-composer
 cta:
   domain: null
   bucket: null
